@@ -51,9 +51,16 @@
      <Compile Include="Assets\DOTween\Sequences.cs" />
      <Compile Include="Assets\DOTween\UGUI.cs" />
      <Compile Include="Assets\Scripts\DEMO_Xmi.cs" />
-     <Compile Include="Assets\Scripts\Diagrams\Behavioral.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\Actor.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\Arrow.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\Asynchronous.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\Behavioural.cs" />
      <Compile Include="Assets\Scripts\Diagrams\Diagram.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\Instance.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\ObjectClass.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\ReturnMessage.cs" />
      <Compile Include="Assets\Scripts\Diagrams\SequenceDiagram.cs" />
+     <Compile Include="Assets\Scripts\Diagrams\Synchronous.cs" />
      <Compile Include="Assets\Scripts\MakeAnimation.cs" />
      <Compile Include="Assets\Scripts\MyAnimation.cs" />
      <Compile Include="Assets\teste.cs" />

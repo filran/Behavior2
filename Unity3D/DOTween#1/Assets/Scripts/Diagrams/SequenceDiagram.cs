@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-public class SequenceDiagram : Behavioral {
+public class SequenceDiagram : Behavioural {
 
 	public string Id {get ; private set;}
 
