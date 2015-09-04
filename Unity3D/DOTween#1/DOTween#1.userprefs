@@ -1,6 +1,25 @@
 ﻿<Properties>
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Diagrams\Synchronous.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Diagrams\Diagram.cs" Line="18" Column="25" />
+      <File FileName="Assets\Scripts\Diagrams\Behavioural.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Diagrams\SequenceDiagram.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Diagrams\Arrow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Diagrams\ReturnMessage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Diagrams\Synchronous.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Diagrams\Asynchronous.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Diagrams\Instance.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Diagrams\Actor.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Diagrams\ObjectClass.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\MyAnimation.cs" Line="27" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+=======
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench />
+>>>>>>> Hercules
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
